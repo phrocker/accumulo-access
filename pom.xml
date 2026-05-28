@@ -29,7 +29,7 @@
   </parent>
   <groupId>org.apache.accumulo</groupId>
   <artifactId>accumulo-access</artifactId>
-  <version>1.0.0-beta2-SNAPSHOT</version>
+  <version>1.0.0-veculo-rc1</version>
   <packaging>pom</packaging>
   <name>Apache Accumulo Access Project</name>
   <description>Apache Accumulo Access is a library that provides the same functionality,
